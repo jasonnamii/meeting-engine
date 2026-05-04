@@ -1,4 +1,4 @@
-# Post Skill-Doctor Notes — meeting-engine
+# Post Skill-Doctor Notes — meeting-minutes
 
 **진단일:** 2026-04-26  
 **현 SKILL.md 크기:** 14480B (목표: ≤10KB)
